@@ -2,4 +2,4 @@
 
 Para abrir en tu colab:
 
-http://colab.research.google.com/github/isadoji/
+http://colab.research.google.com/github/isadoji/ciencia-de-datos
