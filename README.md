@@ -1,4 +1,4 @@
-# Taller introductorio a la ciencia-de-datos
+# Introductorio a la ciencia-de-datos
 
 Para abrir en tu colab:
 
